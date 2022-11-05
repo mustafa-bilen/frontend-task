@@ -1,0 +1,111 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@500;700&display=swap");
+
+.htext {
+  font-family: "Montserrat", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 0px;
+  letter-spacing: 0em;
+}
+
+.hbold {
+  font-family: "Montserrat", sans-serif;
+  font-size: 32px;
+  font-weight: 900;
+  letter-spacing: 0em;
+  text-align: center;
+}
+
+.pixelperfect {
+  font-family: "Montserrat", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  text-align: center;
+  margin-top: 1rem;
+}
+
+.textsand700 {
+  font-family: "Quicksand";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 5px;
+
+  text-align: center;
+
+  color: #000000;
+}
+
+.textsand500 {
+  font-family: "Quicksand";
+  font-style: normal;
+  font-weight: 500;
+  line-height: 20px;
+  font-size: 14px;
+
+  text-align: center;
+
+  color: #000000;
+}
+
+.montsat700small {
+  font-family: "Montserrat", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 24.38px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+
+.hboldsmall {
+  font-family: "Montserrat", sans-serif;
+  font-size: 20px;
+  font-weight: 900;
+  line-height: 24.38px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+
+.completed {
+  font-family: "Quicksand";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 24px;
+  margin-right: 10rem;
+}
+
+.mission {
+  font-family: "Quicksand";
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 0px;
+  letter-spacing: 0em;
+  margin-left: 0.5rem;
+  text-align: left;
+}
+
+.mission2 {
+  font-family: "Quicksand";
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 16px;
+  letter-spacing: 0em;
+  text-align: left;
+  width: 225px;
+  height: 16px;
+  color: #999999;
+}
+
+.pointgreen {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 18px;
+
+  text-align: right;
+  margin-bottom: 2rem;
+  color: #00cc00;
+}

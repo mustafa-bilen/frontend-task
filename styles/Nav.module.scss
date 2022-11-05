@@ -1,0 +1,41 @@
+.navbar {
+  border-radius: 10px;
+  width: 391px;
+  height: 68px;
+  background: #ffcc33;
+
+  .navcol {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+  }
+
+  .points {
+    width: 123px;
+    height: 36px;
+    background: #000000;
+    border-radius: 99px;
+    color: #fff;
+    outline: none;
+    border: none;
+    margin-left: 3rem;
+    font-family: "Quicksand";
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20px;
+    font-size: 14px;
+
+    text-align: center;
+
+    .pointsbold {
+      font-family: "Quicksand";
+      font-style: normal;
+      font-weight: 700;
+      font-size: 14px;
+      line-height: 5px;
+
+      text-align: center;
+    }
+  }
+}
